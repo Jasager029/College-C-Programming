@@ -1,0 +1,48 @@
+﻿Build started 10/28/2014 5:06:37 PM.
+     1>Project "C:\Users\Jasager\Documents\Data\Productive\Programs\StudentWorks\StudentWorks\StudentWorks.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt prog_calcarea.cpp prog_calcvolume.cpp main.cpp prog_errortest.cpp prog_manipstruct.cpp prog_notation.cpp
+         prog_errortest.cpp
+         main.cpp
+         Generating Code...
+         Compiling...
+         prog_notation.cpp
+         prog_manipstruct.cpp
+         prog_calcvolume.cpp
+     1>c:\users\jasager\documents\data\productive\programs\studentworks\studentworks\prog_calcvolume.cpp(40): warning C4101: 'volume' : unreferenced local variable
+         prog_calcarea.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jasager\Documents\Data\Productive\Programs\StudentWorks\Debug\StudentWorks.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jasager\Documents\Data\Productive\Programs\StudentWorks\Debug\StudentWorks.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jasager\Documents\Data\Productive\Programs\StudentWorks\Debug\StudentWorks.lib" /MACHINE:X86 Debug\DateType.obj
+         Debug\Grade.obj
+         Debug\InternationalPhone.obj
+         Debug\Phone.obj
+         Debug\prog_calcarea.obj
+         Debug\prog_calcvolume.obj
+         Debug\main.obj
+         Debug\prog_carsales.obj
+         Debug\prog_checklengths.obj
+         Debug\prog_dateclass.obj
+         Debug\prog_dragforce.obj
+         Debug\prog_equaldates.obj
+         Debug\prog_errortest.obj
+         Debug\prog_inputarray.obj
+         Debug\prog_interestrate.obj
+         Debug\prog_leapyear.obj
+         Debug\prog_manipclass.obj
+         Debug\prog_manipstruct.obj
+         Debug\prog_myinfo.obj
+         Debug\prog_notation.obj
+         Debug\prog_numsize.obj
+         Debug\prog_phones.obj
+         Debug\prog_pointers.obj
+         Debug\prog_quadrant.obj
+         Debug\prog_tempclass.obj
+         Debug\prog_tempconvert.obj
+         Debug\prog_valuesfile.obj
+         StudentWorks.vcxproj -> C:\Users\Jasager\Documents\Data\Productive\Programs\StudentWorks\Debug\StudentWorks.exe
+     1>Done Building Project "C:\Users\Jasager\Documents\Data\Productive\Programs\StudentWorks\StudentWorks\StudentWorks.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.93
